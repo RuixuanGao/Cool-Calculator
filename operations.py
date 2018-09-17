@@ -25,7 +25,7 @@ def subtract(a, b):
     return 0
 
 
-sym_dict['-'] = ()
+sym_dict['-'] = ('substraction', 'RG')
 ############################################################
 
 
